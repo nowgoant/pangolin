@@ -1,0 +1,7 @@
+{
+  "plugins": ["vue"],
+  "extends": ["elemefe"],
+  "rules": {
+    "eol-last": 0
+  }
+}

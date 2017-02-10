@@ -1,0 +1,24 @@
+{
+  "name": "pangolin",
+  "version": "0.0.0",
+  "description": "A vue project.",
+  "private": true,
+  "keywords": [],
+  "scripts": {
+    "dev": "cooking watch -p",
+    "dist": "cooking build -p",
+    "deploy": "cooking build --no-color",
+    "test": "cooking test karma start --single-run"
+  },
+  "author": "leo",
+  "license": "MIT",
+  "dependencies": {
+    "babel-polyfill": "*",
+    "element-ui": "^1.1.6",
+    "vue": "^2.0.1"
+  },
+  "devDependencies": {
+    "babel-plugin-component": "^0.9.0",
+    "cooking-vue2": "*"
+  }
+}
