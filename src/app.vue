@@ -12,7 +12,7 @@
   } from 'element-ui';
 
   Vue.use(Button);
-
+  console.log('hihi');
   export default {
     name: 'app'
   };
