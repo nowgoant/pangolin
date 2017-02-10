@@ -20,5 +20,13 @@
   "devDependencies": {
     "babel-plugin-component": "^0.9.0",
     "cooking-vue2": "*"
-  }
+  },  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nowgoant/pangolin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nowgoant/pangolin/issues"
+  },
+  "homepage": "https://github.com/nowgoant/pangolin#readme"
 }
